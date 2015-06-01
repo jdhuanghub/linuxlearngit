@@ -1,5 +1,10 @@
 git add //add a file to stage
+
 git commit //put file to the repository
+
 git diff HEAD -- readme.txt //find difference between file in working directory and repository
 
 git checkout -- readme.txt // undo any changes in working directory
+
+git reset HEAD file//file can be anyone to be modified #Unstaged changes after reset   check git status to make sure the stage is clean then use  *checkout*command to undo changes in working directory
+
