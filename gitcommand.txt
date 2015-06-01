@@ -1,3 +1,4 @@
 git add //add a file to stage
 git commit //put file to the repository
+git diff HEAD -- readme.txt //find difference between file in working directory and repository
 
