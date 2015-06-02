@@ -4,3 +4,5 @@
 //********************************************/
 
 Creating a new branch dev.
+
+git conflict or collision management.
